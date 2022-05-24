@@ -14,3 +14,7 @@
 #### Пример заголовка - 4 уровень
 ##### Пример заголовка - 5 уровень
 ###### Пример заголовка - 6 уровень
+
+![image is not loading](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxVawXpHZgQnYG_QppPx4B_uweyO1cf33RA&usqp=CAU)
+
+# Настройка Git
