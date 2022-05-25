@@ -22,10 +22,10 @@
 
 ## Работа с изображениями в Markdown
 
-Для добьавления картинки необходимо набрать:
+Чтобы вставить изображение в текст, достаточно написать следующее:
 ![Комментарий к картинке](ссылка на картинку) 
 
-![board with stickers](C:\Users\Admin\Desktop\repo-perekhodko\board with stickers.png)
+![image](boardwithstickers.png)
 
 ## Списки в Markdown
 ## Ссылки в Markdown
