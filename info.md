@@ -1,5 +1,4 @@
-# Quick guide for GitHub and Markdown
-# Краткое руководство по GitHub и Markdown
+# Quick guide for GitHub and Markdown / Краткое руководство по GitHub и Markdown
 
 ## Оформление текста в Markdown
 
