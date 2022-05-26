@@ -18,14 +18,12 @@
 ##### Пример заголовка - 5 уровень
 ###### Пример заголовка - 6 уровень
 
-![image is not loading](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxVawXpHZgQnYG_QppPx4B_uweyO1cf33RA&usqp=CAU)
-
 ## Работа с изображениями в Markdown
 
-Для добьавления картинки необходимо набрать:
+Чтобы вставить изображение в текст, достаточно написать следующее:
 ![Комментарий к картинке](ссылка на картинку) 
 
-![board with stickers](C:\Users\Admin\Desktop\repo-perekhodko\board with stickers.png)
+![image](boardwithstickers.png)
 
 ## Списки в Markdown
 
@@ -44,6 +42,8 @@
 ## Работа с таблицами в Markdown
 ## Цитаты в Markdown
 ## Заключение
+
+![image is not loading](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxVawXpHZgQnYG_QppPx4B_uweyO1cf33RA&usqp=CAU)
 
 # Настройка Git
 
